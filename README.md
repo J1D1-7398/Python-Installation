@@ -20,6 +20,7 @@ Download will start
 When the download finishes, go to downloads (Or the folder you previously chose to download files) and double click it
 
 Go to custom installation to specify custom features
+
 (I recommend to check the option "tcl/tk and IDLE" because some of my projects use tkinter (tk))
 
 Recommendations (all these options):
