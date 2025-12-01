@@ -30,3 +30,7 @@ Recommendations (all these options):
 Follow the instructions on screen
 
 Finish the installation process by clicking "Install"
+
+Any errors or questions you have, feel free to write an issue or contact me through e-mail
+
+J1D1.7398@gmail.com
